@@ -16,7 +16,7 @@
 
 **Customize**
 
-    If you want to use your own image to compare follow these steps :
+If you want to use your own image to compare follow these steps :
 
  1. Upload your own image and copy the url
  2. Head over to `lib/API/` folder, then open `api.dart`
