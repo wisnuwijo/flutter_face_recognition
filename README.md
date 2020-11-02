@@ -15,7 +15,8 @@
 ![enter image description here](https://raw.githubusercontent.com/wisnuwijo/flutter_face_recognition/master/Screen%20Shot%202020-11-02%20at%2017.31.45.png)
 
 **Customize**
-If you want to use your own image to compare follow these steps :
+
+    If you want to use your own image to compare follow these steps :
 
  1. Upload your own image and copy the url
  2. Head over to `lib/API/` folder, then open `api.dart`
